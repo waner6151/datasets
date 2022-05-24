@@ -8,5 +8,5 @@ Datasets for Blended QR Code
 4. Generator 3 - Blended QR codes by generator 3
 5. Generator 4 - Blended QR codes by generator 4
 
-The datasets are allowed to be used only for academic research and non-commercial purposes. Please cite the reference if interested.
+The datasets are allowed to be used only for academic research and non-commercial purposes. Please cite the reference if you are interested.
 
